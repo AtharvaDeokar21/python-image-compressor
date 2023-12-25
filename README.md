@@ -41,6 +41,7 @@ Execute the script to compress images:
 ## Notes
 
 • The program uses the os module for file and folder operations.
+
 • Consider using the glob module for more advanced file matching patterns.
 
 ## Contributing
